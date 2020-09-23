@@ -8,3 +8,9 @@ Eu sou Felipe Souza Pereira de Lima um programador em Python 3 começando na ár
 - 📫 Me encontre no emal: salve.laborator@gmail.com
 
 Se sabe programar em Python te indico o __DsaRepositories__ isso irá te ajudar muito
+______________________________________________________________________________________
+É usuario Windows 10? Seu antigo computador era Linux? Tem saudades do terminal dele?
+Te indico o Dsa Terminal Um Simulador do Terminal Linux Ubuntu com uma excelente formatação de texto
+onde Eu e @Cause-Alves: https://github.com/caue-alves trabalhamos juntos para ele ficar l
+otimo para você continuar sem a saudade do Linux e ele faz muito mais coisas, da uma olhada em:
+https://github.com/Dsa-Terminal/Dsa-terminal
