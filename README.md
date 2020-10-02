@@ -3,8 +3,8 @@ Eu sou Felipe Souza Pereira de Lima um programador em Python 3!
 
 - 🔭 Atualmente sei programar em Python 3 e um pouco de JavaScript e Html5
 - 👯 Estou procurando colaborar em projetos em Python 3
-- 🤔 Estou procurando ajuda no ![Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal)
-- 💬 Pergunte-me Sobre o ![Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal)
+- 🤔 Estou procurando ajuda no [Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal)
+- 💬 Pergunte-me Sobre o [Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal)
 - 📫 Me encontre no emal: salve.laborator@gmail.com
 
 Se sabe programar em Python te indico o __DsaRepositories__ isso irá te ajudar muito!
