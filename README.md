@@ -9,6 +9,4 @@ Eu sou Felipe Souza Pereira de Lima um programador em Python 3!
 
 Visualize os Projetos da [Dsa Software Fundation](https://github.com/Dsa-Software), não se esqueça de dar uma 🌟 em nossos repositorios
 Obrigado!
-__________________________________________________________________________________________________________
-**Siga-me no github que eu te seguirei novamente**
 
