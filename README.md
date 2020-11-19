@@ -1,12 +1,11 @@
 # Hi there👋
-Eu sou Felipe Souza Pereira de Lima um programador em Python 3!
+I'm Felipe Souza Pereira Lima a Python 3 programmer!
 
-- 🔭 Atualmente sei programar em Python 3, Java e um pouco de JavaScript e Html5
-- 👯 Estou procurando colaborar em projetos em Python 3
-- 🤔 Estou procurando ajuda no [Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal) e nos Projetos da Dsa Software Fundation
-- 💬 Pergunte-me Sobre o [Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal) e [Dsa FastMail](https://github.com/Dsa-Software/Fastmail)
-- 📫 Me encontre no [telegram](https:/t.me/felipe_souza_pereira_lima) e por [email](mailto:salve.laborator@gmail.com)
+- 🔭 Currently I know how to program in Python 3, Java and a little JavaScript and Html5
+- 👯 I'm looking to collaborate on Python 3 projects
+- 🤔 I am looking for help in [Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal) and Dsa Software Fundation Projects
+- 💬 Ask me about [Dsa Terminal](https://github.com/Dsa-Terminal/Dsa-Terminal) and [Dsa FastMail](https://github.com/Dsa-Software/Fastmail)
+- 📫 Find me on [telegram (https: /t.me/felipe_souza_pereira_lima) and on [email](mailto: salve.laborator@gmail.com)
 
-Visualize os Projetos da [Dsa Software Fundation](https://github.com/Dsa-Software), não se esqueça de dar uma 🌟 em nossos repositorios
-Obrigado!
-
+View the [Dsa Software Fundation Projects](https://github.com/Dsa-Software), don't forget to like our repositories
+Thanks!
