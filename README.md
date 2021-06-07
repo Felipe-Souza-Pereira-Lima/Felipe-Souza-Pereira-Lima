@@ -9,7 +9,3 @@ I'm Felipe Souza Pereira Lima a Python 3 programmer!
 
 <img src="https://github-profile-trophy.vercel.app/?username=caue-alves&theme=dracula&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
-<p>
-<br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe_Souza_Pereira_Lima&layout=compact" alt="Felipe_Souza_Pereira_Lima" /></p>
-
-
